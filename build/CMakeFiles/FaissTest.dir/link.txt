@@ -1,0 +1,1 @@
+/usr/bin/c++    -fopenmp  -O0 -Wall -g -ggdb    CMakeFiles/FaissTest.dir/src/FaissTest.cpp.o  -o FaissTest  -L/mnt1/dwguo3/HelloWorld/ANNS/./lib -rdynamic -lfaiss -Wl,-rpath,/mnt1/dwguo3/HelloWorld/ANNS/./lib 

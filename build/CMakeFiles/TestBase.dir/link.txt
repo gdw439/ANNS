@@ -1,0 +1,1 @@
+/usr/bin/c++    -fopenmp  -O0 -Wall -g -ggdb    CMakeFiles/TestBase.dir/src/TestBase.cpp.o  -o TestBase  -L/mnt1/dwguo3/HelloWorld/ANNS/./lib -rdynamic -lfaiss -Wl,-rpath,/mnt1/dwguo3/HelloWorld/ANNS/./lib 

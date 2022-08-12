@@ -1,0 +1,4 @@
+/mnt1/dwguo3/HelloWorld/ANNS/build/CMakeFiles/edit_cache.dir
+/mnt1/dwguo3/HelloWorld/ANNS/build/CMakeFiles/rebuild_cache.dir
+/mnt1/dwguo3/HelloWorld/ANNS/build/CMakeFiles/FaissTest.dir
+/mnt1/dwguo3/HelloWorld/ANNS/build/CMakeFiles/TestBase.dir
